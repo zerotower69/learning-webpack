@@ -1,0 +1,19 @@
+{
+  "name": "03--use-html-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "html-webpack-plugin": "^4.5.2",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build":"npx webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
