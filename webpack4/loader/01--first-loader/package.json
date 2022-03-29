@@ -1,0 +1,17 @@
+{
+  "name": "print-loader",
+  "version": "1.0.0",
+  "description": "my first loader",
+  "main": "loaderjs.",
+  "scripts": {
+    "build": "npx webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
